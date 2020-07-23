@@ -59,7 +59,7 @@ body {
   right: 25px;
   border: 1px solid grey;
   padding: 5px 10px;
-  background-color: lightseagreen;
+  background-color: blue;
 }
 .save-button:hover {
   background-color: green;
@@ -74,4 +74,22 @@ body {
 .movie-warning {
   color: red;
   text-align: center;
+}
+
+.Btn {
+  color: red;
+  font-weight: bold;
+  border-color: 3px solid black;
+  border-radius: 10px;
+  background-color: cornflowerblue;
+  padding: 10px 30px;
+  margin: 10px 10px;
+}
+
+input {
+  padding: 10px 30px;
+  margin: 0 30px;
+  font-size: 1.2rem;
+  font-weight: bold;
+  border: 3px solid black;
 }
